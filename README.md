@@ -48,3 +48,5 @@ Nosso projeto é um sistema acadêmico de cadastro e consulta de alunos, profess
 10º Esse foi nosso projeto!
 
 Agradecemos pela atenção!
+
+Link para demonstração do projeto: https://youtu.be/XLx_o940yZc
