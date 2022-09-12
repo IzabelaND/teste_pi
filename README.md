@@ -1,5 +1,8 @@
 # teste_pi
 
+Grupo 12
+Integrantes: Izabela Nogueira Dias e Raphael Campos Silva
+
 ORIENTAÇÕES PARA UTILIZAR O NOSSO PROJETO
 
 Nosso projeto é um sistema acadêmico de cadastro e consulta de alunos, professores e fornecedores.
@@ -7,14 +10,14 @@ Nosso projeto é um sistema acadêmico de cadastro e consulta de alunos, profess
 1º Para executar este projeto é necessário ter um software (servidor de desenvolvimento local), como o XAMPP ou WAMP (UwAmp), para os nossos testes foram executados no XAMPP. Também é preciso de um editor de código-fonte, usamos o Visual Studio Code, banco de dados, optamos pelo MySQL e por fim um navegador.
 
 
-2º Ative o servidor Apache no XAMPP ou em outro software desse mesmo tipo;
+2º Ative o servidor Apache no XAMPP ou em outro software desse mesmo tipo.
 
 
 3º Baixe todos os arquivos que encontram-se na branch Master deste presente repositório. Salve eles em uma pasta localizada dentro da pasta do software utilizado. Ex. no nosso caso usamos o Xampp então estes arquivos estão salvos em uma pasta dentro do arquivo do xampp, mais especificamente na pasta "htdocs". Então o endereço da pasta com nossos arquivos (no meu computador) é "C:\xampp\htdocs\teste_pi";
   Obs.: os arquivos são: formulario_aluno, formulario_professor, formulario_fornecedor, config_pi, consulta_aluno, consulta_professor, consulta_fornecedor, menu e menu_consulta.
 
 
-4º Depois de baixar todos os arquivos presentes na branch Master e também ativar o Apache abra um navegador de sua escolha;
+4º Depois de baixar todos os arquivos presentes na branch Master e também ativar o Apache abra um navegador de sua escolha.
 
 
 5º No navegar digite a url localhost/nome_da_pasta_que_salvou_todos_os_projetos. 
